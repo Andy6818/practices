@@ -38,7 +38,7 @@ const products= [{
   {
     id: 3,
     name: "Pumpkin Cupcake",
-    image:"image/105.jpg",
+    image:"image/2.jpg",
  category: "Cupcake",
     price: 3.99,
    
