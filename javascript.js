@@ -38,7 +38,7 @@ const products= [{
   {
     id: 3,
     name: "Pumpkin Cupcake",
-    image:"image/11.jpg",
+    image:"image/105.jpg",
  category: "Cupcake",
     price: 3.99,
    
@@ -117,7 +117,7 @@ category: "Ice Cream",
   {
     id: 11,
     name: "Vanilla Macarons (5 Pack)",
-    image:"image/608.jpg",
+    image:"image/708.jpg",
 
 category: "Macaron",
     price: 11.99,
